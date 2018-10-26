@@ -1,0 +1,2 @@
+Its end of the year and the store has to hand out annual bonuses. The store operates in 3 regions and only the top performing employee in each region qualifies for a bonus. Which 3 employees will receive an annual bonus ? 
+Measurement metric - Employee sales in dollars.
